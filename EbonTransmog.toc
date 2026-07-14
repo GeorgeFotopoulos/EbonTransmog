@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: EbonTransmog
+## Notes: Browse collected transmog appearances and preview them on your character.
+## Author: Diss
+## Version: 1.0.0
+## OptionalDeps: ProjectEbonhold, ProjectEbonholdEnhanced
+## SavedVariables: EbonTransmogDB
+
+core/Init.lua
+modules/data/SlotCatalog.lua
+modules/data/AppearanceService.lua
+modules/data/GossipScraper.lua
+modules/data/LoadoutService.lua
+modules/data/LoadoutApplier.lua
+modules/tooltip/SetTooltipFix.lua
+modules/ui/PreviewModel.lua
+modules/ui/MinimapButton.lua
+modules/ui/TransmogJournal.lua
